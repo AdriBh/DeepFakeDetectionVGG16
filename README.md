@@ -19,8 +19,6 @@ pandas
 numpy
     </pre>
     
-<p>To install the required packages, use:</p>
-<pre><code>pip install -r requirements.txt</code></pre>
 
 <h2>Usage</h2>
 
